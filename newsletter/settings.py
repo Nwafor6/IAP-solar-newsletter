@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-+c1dcwa1i05dd+^cy-_v7!azw2zd)6ltj*givwv(^i6fw0r*7c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["iapsolar.pythonanywhere.com"]
 
 
 # Application definition
